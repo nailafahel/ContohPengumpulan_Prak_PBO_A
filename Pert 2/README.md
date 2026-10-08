@@ -24,7 +24,6 @@
 * **After** *(Kondisi akhir / Eksekusi berhasil)*:
 ![SS After Satu.java](gambar-after)
 
-
 ### 1.2. File: `Dua.java`
 **Penjelasan Kode:**
 > [Isi Penjelasan.]
@@ -36,7 +35,6 @@
 * **After** *(Kondisi akhir / Eksekusi berhasil)*:
 ![SS After Dua.java](gambar-after)
 
-
 ### 1.3. File: `Main.java`
 **Penjelasan Kode:**
 > [Isi Penjelasan.]
@@ -47,6 +45,10 @@
 
 * **After** *(Kondisi akhir / Eksekusi berhasil)*:
 ![SS After Main.java](gambar-after)
+
+### Output
+**Output Program:**
+![Output Java](gambar-output)
 
 ---
 
@@ -63,7 +65,6 @@
 * **After** *(Kondisi akhir / Eksekusi berhasil)*:
 ![SS After satu.php](gambar-after)
 
-
 ### 2.2. File: `dua.php`
 **Penjelasan Kode:**
 > [Isi Penjelasan.]
@@ -75,7 +76,6 @@
 * **After** *(Kondisi akhir / Eksekusi berhasil)*:
 ![SS After dua.php](gambar-after)
 
-
 ### 2.3. File: `main.php`
 **Penjelasan Kode:**
 > [Isi Penjelasan.]
@@ -86,6 +86,10 @@
 
 * **After** *(Kondisi akhir / Eksekusi berhasil)*:
 ![SS After main.php](gambar-after)
+
+### Output
+**Output Program:**
+![Output PHP](gambar-output)
 
 ---
 
